@@ -1,2 +1,0 @@
-# myMock
-mock Data
